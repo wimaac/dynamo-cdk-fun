@@ -1,0 +1,20 @@
+[
+    {
+        "baseballId": "0",
+        "Name": "Michael",
+        "Height": "184",
+        "Age": "25"
+    },
+    {
+        "baseballId": "1",
+        "Name": "John",
+        "Height": "185",
+        "Age": "28"
+    },
+    {
+        "baseballId": "2",
+        "Name": "James",
+        "Height": "190",
+        "Age": "30"
+    }
+]
